@@ -12,7 +12,7 @@ body {
 
 @layer components {
   .micro {
-    @apply text-xs uppercase tracking-[0.2em] text-stone-400;
+    @apply text-xs uppercase tracking-[0.2em] text-stone-800;
   }
 
   .footer-note {
