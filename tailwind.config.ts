@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         surface: "#ffffff",
+        charcoal: "#36454f",
       },
       fontFamily: {
         sans: ["var(--font-sans)", "system-ui", "sans-serif"],
