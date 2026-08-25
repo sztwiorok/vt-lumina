@@ -19,6 +19,7 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
+    "@buddy-works/visual-tests-playwright": "^0.1.0",
     "@playwright/test": "1.62.1",
     "@types/node": "20.14.12",
     "@types/react": "18.3.3",
